@@ -1,5 +1,10 @@
 ### Salam 3alekom , I am Mohamed Nabil ! 👋
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mn250101/)</br>
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mn250101/)</br> 
+📫 Mail: [Gmail](mailto:moh.nabil2050@gmail.com)</br> 
+* I am a graduate Engineer from ASU in Egypt in 2022 , My minor was analog design and layout . 
+* Graduation project was about designing Low Jitter Noise Digital PLL 
+* Had coule of internships after graduation and currently working as VLSI TA in the AUC electronics course for graduates .
+* Interested in Analog Layout Field
 <!--
 **MohamedNabil95/MohamedNabil95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
